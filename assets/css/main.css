@@ -125,7 +125,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 2em;
+		font-size: 2.15em;
 		line-height: 1.25em;
 	}
 
@@ -220,7 +220,7 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			color: #f2b69d;
+			color: #f08c89;
 			padding: 0.75em 0 1em 0;
 			font-size: 1.5em;
 			line-height: 1.5em;
@@ -2011,7 +2011,7 @@ input, select, textarea {
 		text-decoration: none;
 		border: solid 1px #d2d7dc;
 		border-radius: 0.35em;
-		padding: 0.3em .2em 0.3em .2em;
+		padding: 0.3em .5em 0.3em .5em;
 		cursor: pointer;
 		outline: 0;
 	}
@@ -2303,7 +2303,7 @@ input, select, textarea {
 		#hero .button {
 			background: #fff;
 			border-color: rgba(255, 255, 255, 0);
-			color: #f08c89;
+			color: #f2b69d;
 			font-size: 1.25em;
 		}
 
